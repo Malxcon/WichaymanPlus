@@ -10,3 +10,12 @@
 #one{
     background: url(../img/portadaOriginal.png)
 }#logo{margin-bottom: 0px;}
+
+#invitacion{
+    background: url(../img/invitacion.jpg);
+    height: 210px;
+}
+
+.m_asis{
+    font-size: 30px;
+}
